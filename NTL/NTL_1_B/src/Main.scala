@@ -13,6 +13,6 @@ object Main {
 		val bigM = BigInt(m)
 		val bigN = BigInt(n)
 		
-		println(bigM.modPow(n, 1000000007))
+		println(bigM.modPow(n, 1000000007))	// modPowクソ早い
 	}
 }

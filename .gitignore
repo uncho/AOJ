@@ -1,5 +1,13 @@
-*.class
+# OS X
 .DS_Store
+.AppleDouble
+.LSOverride
+
+Icon
+._*
+
+# java or scala + eclipse
+*.class
 *.classpath
 *.project
 
